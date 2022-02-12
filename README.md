@@ -7,6 +7,6 @@
 # My stack
 
 
-|              Python               |             Jenkins             |               IntelliJ IDEA               |                Allure Report                |               Allure Testops                |
-|:-------------------------------:|:-------------------------------:|:-----------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|
-| ![Python](/images/python.png) | |  ![Jenkins](/images/Jenkins.png) | ![Intelij_IDEA](/images/Intelij_IDEA.png) | ![Allure Report](/images/Allure_Report.png) | ![AllureTestOps](/images/AllureTestOps.png) | 
+|              Python               | Selenoide |                Jenkins                 |  IntelliJ IDEA | Allure Report    |             Allure Testops             |   
+|:-------------------------------:|:----:|:-------------------------------------:|:------:|:--------:|:-------------------------------:|
+| ![Python](/images/python.png) | ![Selenide](/images/Selenoide.png) | ![Jenlins](/images/Jenkins.png) | ![IntelliJ IDEA](/images/Intelij_IDEA.png) | ![Allure Report](/images/Allure Report.png) | ![Jenkins](/images/Allure Testops.png) | 
