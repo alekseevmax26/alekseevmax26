@@ -9,4 +9,4 @@
 
 |              Python               | Selenoide |                Jenkins                 |  IntelliJ IDEA | Allure Report    |             Allure Testops             |   
 |:-------------------------------:|:----:|:-------------------------------------:|:------:|:--------:|:-------------------------------:|
-| ![Python](/images/python.png) | ![Selenide](/images/Selenoide.png) | ![Jenlins](/images/Jenkins.png) | ![IntelliJ IDEA](/images/Intelij_IDEA.png) | ![Allure Report](/images/Allure Report.png) | ![Jenkins](/images/Allure Testops.png) | 
+| ![Python](/images/python.png) | ![Selenoide](/images/Selenoide.png) | ![Jenlins](/images/Jenkins.png) | ![IntelliJ IDEA](/images/Intelij_IDEA.png) | ![Allure Report](/images/Allure_Report.png) | ![Jenkins](/images/AllureTestOps.png) | 
