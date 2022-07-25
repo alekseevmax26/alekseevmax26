@@ -5,6 +5,6 @@
 # My stack
 
 
-|              Python               |            Pytest            |  Selenoide |                Jenkins                 |  IntelliJ IDEA | Allure Report    |             Allure Testops             |   
+|              Python               |            Pytest            |  Selenoid  |                Jenkins                 |  PyCharm    | Allure Report    |             Allure Testops             |   
 |:-------------------------------:|:-------------------------------:|:----:|:-------------------------------------:|:------:|:--------:|:-------------------------------:|
 | ![Python](/images/python.png) | ![Pytest](/images/Pytest.png) |![Selenoide](/images/Selenoid.png) | ![Jenlins](/images/Jenkins.png) | ![IntelliJ IDEA](/images/PyCharm.png) | ![Allure Report](/images/Allure_Report.png) | ![Jenkins](/images/AllureTestOps.png) | 
